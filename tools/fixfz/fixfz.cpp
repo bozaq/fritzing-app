@@ -178,3 +178,6 @@ int main(int argc, char * argv[])
 	globalDir.setPath(argv[1]);
 	runDir(globalDir);
 }
+
+1
+0
